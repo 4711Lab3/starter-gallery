@@ -12,9 +12,9 @@ Release Date: Jul 26, 2027
 
 ## Updated Components
 
-    - Static to trivial Website conversion update
+    - Static to trivial Website conversion update - Renz (27/01/2017)
 
-    - Trivial to Basic
+    - Trivial to Basic - Kevin (29/01/2017)
 
-    - Basic to Good website
+    - Basic to Good website - Renz (29/01/2017)
 
